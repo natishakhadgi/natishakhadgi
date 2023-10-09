@@ -1,9 +1,12 @@
-### Hi there 👋
+### hello there, i'm natisha 👋
+
+- this readme is under construction atm. not creative enough to figure out what to put here 🤔
 
 <!--
-**natishakhadgi/natishakhadgi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
+
+- 🔭 i’m currently working on a ton of projects. too many, if we're being honest. But I luv coming up with funky ideas!
+- ⚡ fun fact: when I'm not coding, you can catch me trying to watch a number of movies to get my Letterboxd profile looking sharp while working on a jigsaw puzzle or two.
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
